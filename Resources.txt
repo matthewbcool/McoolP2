@@ -1,0 +1,29 @@
+My Resources/Works consulted:
+
+Udacity!  Intro to Javascript/Jquery
+p2 repository
+
+
+Skype button code:
+——————————————————————
+http://www.skype.com/en/features/skype-buttons/create-skype-buttons/
+
+conceptual help:
+——————————————————————
+
+Basic info on API and javascript:
+http://www.dummies.com/how-to/computers-software/programming/javascript.html
+http://en.wikipedia.org/wiki/Application_programming_interface
+
+A promotional video on the Places API
+https://www.youtube.com/watch?v=obrHov9XfRk&feature=youtu.be
+
+
+coding syntax help:
+——————————————————————
+http://www.w3schools.com/
+
+Taking the javascript class here:
+http://www.codecademy.com/learn
+
+
